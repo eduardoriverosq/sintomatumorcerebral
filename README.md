@@ -1,2 +1,2 @@
 # sintomatumorcerebral
-Demostración simplificada del proceso de lenguaje natural aplicado a detección de síntoma de tumor bajo modelo de inteligencia de artificial transformer Bert 
+Demostración simplificada de una parte del proceso de lenguaje natural aplicado a detección de síntoma de tumor bajo modelo de inteligencia de artificial transformer Bert. El código completo se basa en el material del profesor Jesús Conde, mi aporte fue modificar el código para adaptarlo al caso médico, ya que este código tiene múltiples aplicaciones. El enlace con la explicación teórica del modelo Bert se puede leer en el enlace https://www-nlp.stanford.edu/pubs/clark2019what.pdf 
